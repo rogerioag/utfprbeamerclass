@@ -3,7 +3,7 @@ title: Untitled
 subtitle: Subtitle
 institute: Universidade Tecnológica Federal do Paraná - UTFPR
 format:
-  beamerclass-beamer: default
+  utfprbeamerclass-beamer: default
 author: Rogério A. Gonçalves
 e-mail: teste@teste.com.br
 date: last-modified
