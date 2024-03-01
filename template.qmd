@@ -7,8 +7,7 @@ format:
 author: Rogério A. Gonçalves
 e-mail: teste@teste.com.br
 date: last-modified
-bibliography: references.bib
-csl: apsa.csl
+bibliography: ref.bib
 ---
 
 ## Introduction
