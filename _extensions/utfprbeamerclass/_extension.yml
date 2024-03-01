@@ -51,7 +51,7 @@ contributes:
         - background-filter.py
 
       metadata-files:
-        - ../../../../course-metadata.yml
+        - ../../../../../course-metadata.yml
 
 
     
