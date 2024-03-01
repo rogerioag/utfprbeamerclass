@@ -1,0 +1,28 @@
+author:
+- name: Prof. Rogério Aparecido Gonçalves
+  citation: R. A. GONÇALVES
+  id: 1
+  affiliation: Universidade Tecnológica Federal do Paraná (UTFPR)
+  department: Departamento de Computação (DACOM)
+  citystatecountry: Campo Mourão - Paraná - Brasil
+  email: rogerioag@utfpr.edu.br
+programname: Bacharelados em Ciência da Computação e Engenharia Eletrônica
+coursename: Ciência da Computação / Engenharia Eletrônica
+subjectname: BCC2003 e LT34E - Arquitetura e Organização de Computadores
+idsubjectcourseinstitution: BCC2003-ICE/LT34E-IL4A
+banner: ../templates/logos/banner.pdf
+banner-slides: ../templates/logos/banner-slides.pdf
+banner-classnotes: ../templates/logos/banner-classnotes.pdf
+logo:
+license: |
+  \vspace{-2.0cm}
+  \begin{tikzpicture}[overlay, remember picture]
+    \linespread{0.75}
+    \node[above=0.1cm of current page.south, align=center] {
+      \href{https://creativecommons.org/licenses/by-nc-nd/4.0/}{\ccbyncnd}\\
+      \vspace{-0.5cm}
+      \tiny Este trabalho está licenciado com uma Licença Creative Commons Teste -
+      Atribuição-NãoComercial-SemDerivações 4.0 Internacional.\\
+      % \tiny \href{mailto:rogerioag@utfpr.edu.br}{\nolinkurl{rogerioag@utfpr.edu.br}}
+    };
+  \end{tikzpicture}
