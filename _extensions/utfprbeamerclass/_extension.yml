@@ -1,4 +1,4 @@
-title: Beamerclass
+title: UTFPRBeamerclass
 author: Rogério A. Gonçalves
 version: 1.0.0
 quarto-required: ">=1.4.0"
@@ -6,7 +6,7 @@ contributes:
   formats:
     beamer:
       bibliography: ref.bib
-      csl: ./_extensions/beamerclass/apsa.csl
+      csl: ./_extensions/utfprbeamerclass/apsa.csl
       toc: true
       toc-title: Agenda
       include-in-header: header.tex
@@ -24,7 +24,7 @@ contributes:
       header-includes: |
         \titlegraphic{%
           \begin{picture}(0,0)
-           \put(325,10){\makebox(0,0)[rt]{\hfill\includegraphics[height=0.95cm]{./_extensions/beamerclass/logo.png}}}
+           \put(325,10){\makebox(0,0)[rt]{\hfill\includegraphics[height=0.95cm]{./_extensions/utfprbeamerclass/logo.png}}}
           \end{picture}}
 
           
@@ -37,7 +37,7 @@ contributes:
       link-citations: true
       link-bibliography: true
 
-      template: ./_extensions/beamerclass/default.latex
+      template: ./_extensions/utfprbeamerclass/default.latex
 
       keep-tex: true
 
@@ -51,7 +51,7 @@ contributes:
         - background-filter.py
 
       metadata-files:
-        - course-metadata.yml
+        - ../../../../course-metadata.yml
 
 
     
